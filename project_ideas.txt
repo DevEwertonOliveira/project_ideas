@@ -1,0 +1,8 @@
+Project ideas for 2021
+
+
+- Calendar in javascript
+- Snake game
+- Chess
+- video player in python
+- and more
